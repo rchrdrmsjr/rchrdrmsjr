@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, a hardcore 
 
 ## 📫 Hit Me Up  
 - **Email**: ramosrichardjr25@gmail.com  
-- **Instagram**: [_ihatejavascript](https://instagram.com/_ihatejavascript)  
+- **Instagram**: [its_aldev](https://www.instagram.com/its_aldev?igsh=Zzd1dnVuNzgyZDNh)  
 
 ---
 
