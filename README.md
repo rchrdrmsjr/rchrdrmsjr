@@ -22,10 +22,7 @@ Welcome to my GitHub profile! I'm a third-year BSIT student at CODM, a hardcore 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-amp&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-amp&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=radical" alt="GitHub Stats" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=radical" alt="Top Languages" height="160" /> </p>
 
 ---
 
