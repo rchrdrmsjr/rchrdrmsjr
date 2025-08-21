@@ -51,8 +51,8 @@
 ## 🌟 About Me  
 
 💻 Passionate about coding & problem-solving  
-📚 BSIT student (3rd year) at CODM  
-🌱 Currently learning **Full-stack Development**  
+📚 BSIT student (4th year) at Colegio De Montalban 
+🌱 Currently learning **Enterprise System Development**  
 ⚡ Debugging feels like solving puzzles  
 🌐 On a journey: **Student → Developer → Software Engineer**  
 
