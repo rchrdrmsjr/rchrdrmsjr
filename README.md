@@ -1,9 +1,9 @@
 <div align="center">
 
 # Richard Ramos Jr  
-### Software Developer | Full-Stack Explorer  
+### Student Developer | Full-Stack Explorer  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Electron+%7C+React+Native+Basher;Loves+Clean+Code+%26+UI+Design;Open+to+Collaboration+%26+Projects" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%26+Aspiring+Full-Stack+Developer;Learning+%26+Building+Everyday;Loves+Clean+Code+%26+UI+Design;Open+to+Collaboration+%26+Projects" alt="Typing Animation" />
 
 ---
 
@@ -50,9 +50,9 @@
 
 ## 🌟 About Me  
 
-💻 Passionate about **coding & problem-solving**  
-📚 BSIT student (4th year) at **Colegio De Montalban**  
-🌱 Currently learning **Enterprise System Development**  
+🎓 BSIT student (4th year) at **Colegio De Montalban**  
+💻 Passionate about **coding, problem-solving & learning new tech**  
+🌱 Currently exploring **Enterprise System Development**  
 ⚡ Debugging feels like solving puzzles  
 🌐 On a journey: *Student → Developer → Software Engineer*  
 
@@ -91,7 +91,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 > ✨ *"Code. Learn. Grow. Repeat."* ✨  
-> 🏆 *Consistency beats motivation every time.*  
+> 🎯 *Small steps daily lead to big progress.*  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rchrdrmsjr)  
 
