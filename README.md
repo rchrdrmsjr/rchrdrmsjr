@@ -22,7 +22,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary><b>⚙️ Backend</b></summary><br>
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,7 +36,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary><b>🗄️ Databases</b></summary><br>
   
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
