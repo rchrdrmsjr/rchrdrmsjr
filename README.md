@@ -3,7 +3,7 @@
 # Richard Ramos Jr  
 ### Software Developer | Full-Stack Explorer  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+React+Native+Basher;Loves+Clean+Code+%26+UI+Design;Open+to+Collaboration+%26+Projects" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Electron+%7C+React+Native+Basher;Loves+Clean+Code+%26+UI+Design;Open+to+Collaboration+%26+Projects" alt="Typing Animation" />
 
 ---
 
