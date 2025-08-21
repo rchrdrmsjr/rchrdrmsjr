@@ -1,6 +1,6 @@
 <div align="center">
   
-# Full Stack Developer  
+# Software Developer 
 **Richard Ramos Jr**
 
 ---
