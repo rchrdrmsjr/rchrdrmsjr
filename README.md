@@ -36,28 +36,20 @@
 
 </div>
 
-
 ---
 
 ## 🌟 About Me
-- 🎓 **Education:** Still hustling through my Bachelor's in IT
-- 🌱 **Currently Learning:** The art of HTML, from semantic elements to SEO-friendly structures
-- 💡 **Interests:** Web architecture, front-end foundations, accessibility, and making HTML do the impossible
+- 🎓 **Education:** Third-year BSIT student at CODM  
+- 🌱 **Currently Learning:** Full-stack development with modern frameworks  
+- 💡 **Interests:** Building scalable apps, backend systems, and accessible UIs  
 
----
-
-## 🔧  Technologies & Tools
-### 🖥️ Languages  
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) 
-
-- 🏗️ Semantic HTML: Because structure matters!
-- 🎨 Clean & Readable Markup: Writing HTML like poetry
-- 🔍 SEO Optimization: Making sure the search engines love my code
-- 🎭 ARIA & Accessibility: Everyone deserves a smooth web experience
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=radical" alt="GitHub Stats" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=radical" alt="Top Languages" height="160" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=radical" alt="GitHub Stats" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=radical" alt="Top Languages" height="160" /> 
+</p>
 
 ---
 
@@ -67,9 +59,8 @@
 
 ---
 
-🌟 Fun Facts
-- 🏆 HTML is life—CSS and JS? Just side quests
-- 🕰️ Could structure a webpage in my sleep
-- ⚡ Fun Fact: I believe divs solve all problems (but I actually use proper elements, don't worry)
-- 📚 Always refining my HTML game—because even the basics deserve mastery!
-- 🌐 On a mission to make the cleanest, most efficient markup the world has ever seen
+🌟 Fun Facts  
+- 🏆 Always grinding to level up as a developer  
+- 🕰️ Can spend hours coding without noticing the time  
+- ⚡ Debugging feels like solving puzzles  
+- 🌐 On a mission to grow from student → developer → software engineer  
