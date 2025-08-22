@@ -78,8 +78,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=radical" height="160" />
 </p>
 
+## 🏆 GitHub Trophies  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rchrdrmsjr&theme=radical&no-frame=true&margin-w=10" alt="Trophies" />
+  <!-- Main Trophy Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rchrdrmsjr&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="100%" />
+  
+  <!-- Fallback Badge -->
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://img.shields.io/badge/GitHub-Trophies-blueviolet?style=for-the-badge&logo=github" alt="Trophy Badge" />
+  </a>
 </p>
 
 ---
