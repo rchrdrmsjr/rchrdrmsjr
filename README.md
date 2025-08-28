@@ -32,7 +32,7 @@
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
   ![VB.NET](https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge&logo=.net&logoColor=white)
-  ![C#](https://img.shields.io/static/v1?label=C%23&message=&color=239120&logo=c-sharp&style=for-the-badge)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 </details>
 
