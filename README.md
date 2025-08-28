@@ -18,7 +18,7 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Avalonia](https://img.shields.io/badge/Avalonia-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white)
+  ![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white)
 
 </details>
 
