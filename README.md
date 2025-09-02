@@ -13,8 +13,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-*“I’m about to die soon”* 
+*“I’m about to die soon”*  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rchrdrmsjr)  
 
