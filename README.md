@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
 🎓 BSIT student (4th year) at **Colegio De Montalban**  
 
