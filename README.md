@@ -26,7 +26,7 @@
 
 ---
 
-> ✨ *“I’m about to die soon”* ✨  
+>  *“I’m about to die soon”* 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rchrdrmsjr)  
 
