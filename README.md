@@ -1,115 +1,32 @@
 <div align="center">
 
 # Richard Ramos Jr  
-### Student Developer | Full-Stack Explorer  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=IT+Student+%26+Aspiring+Full-Stack+Developer;Learning+%26+Building+Everyday;Loves+Clean+Code+%26+UI+Design;Open+to+Collaboration+%26+Projects" alt="Typing Animation" />
-
----
-
-## 🛠️ Tech Stack  
-
-<details open>
-  <summary><b>🌐 Frontend</b></summary><br>
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-8A2BE2?style=for-the-badge&logo=avalonia&logoColor=white)
-
-</details>
-
-<details open>
-  <summary><b>⚙️ Backend</b></summary><br>
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![VB.NET](https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge&logo=.net&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-#&logoColor=white)
-
-</details>
-
-<details open>
-  <summary><b>🗄️ Databases</b></summary><br>
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</details>
-
-<details open>
-  <summary><b>☁️ DevOps / CI-CD</b></summary><br>
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-</details>
 
 ---
 
 ## 🌟 About Me  
 
 🎓 BSIT student (4th year) at **Colegio De Montalban**  
-💻 Passionate about **coding, problem-solving & learning new tech**  
-🌱 Currently exploring **Enterprise System Development**  
-⚡ Debugging feels like solving puzzles  
-🌐 On a journey: *Student → Developer → Software Engineer*  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=radical" height="160" />
-</p>
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <!-- Main Trophy Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rchrdrmsjr&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="100%" />
-  
-  <!-- Fallback Badge -->
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/GitHub-Trophies-blueviolet?style=for-the-badge&logo=github" alt="Trophy Badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=dev.to&logoColor=white)](#)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
-
 📧 **Email**: ramosrichardjr25@gmail.com  
 📸 **Instagram**: [its_aldev](https://www.instagram.com/its_aldev?igsh=Zzd1dnVuNzgyZDNh)  
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-> ✨ *"Code. Learn. Grow. Repeat."* ✨  
-> 🎯 *Small steps daily lead to big progress.*  
+> ✨ *“I’m about to die soon”* ✨  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rchrdrmsjr)  
 
