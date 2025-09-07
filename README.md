@@ -26,7 +26,7 @@
 
 ---
 
-*“I’m about to die soon”*  
+*“Complete Downfall yah”*  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rchrdrmsjr)  
 
