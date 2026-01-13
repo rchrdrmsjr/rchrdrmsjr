@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ar
+# 👋 Hi, I'm Richard Ramos Jr
 
 Student developer focused on building practical, real-world systems.  
 I enjoy turning messy requirements into clean, working software.
