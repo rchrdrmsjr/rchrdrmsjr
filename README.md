@@ -1,18 +1,14 @@
-<div align="center">
+# Richard Ramos Jr
 
-# Richard Ramos Jr  
+🎓 BSIT student (4th year) at **Colegio de Montalban**
 
 ---
 
-## About Me  
-
-🎓 BSIT student (4th year) at **Colegio De Montalban** ---
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchrdrmsjr&theme=dark&hide_border=true" height="160" />
 </p>
 
 ---
@@ -20,18 +16,4 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark" height="160" />
-</p>
-
----
-
-## 📫 Connect with Me  
-
-📧 **Email**: ramosrichardjr25@gmail.com  
-📸 **Instagram**: [its_aldev](https://www.instagram.com/its_aldev?igsh=Zzd1dnVuNzgyZDNh)  
-
----
-
-*“Complete Downfall yah”* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rchrdrmsjr)  
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=
