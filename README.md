@@ -16,4 +16,18 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true" height="160" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: **ramosrichardjr25@gmail.com**
+- 📸 Instagram: [@its_aldev](https://www.instagram.com/its_aldev)
+
+---
+
+> *“Complete Downfall yah”*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rchrdrmsjr)
