@@ -18,7 +18,7 @@ I am a software developer dedicated to building scalable, user-centric systems t
 ---
 
 ## 🏗 Featured Project: Integrated School Management System
-**Lead Developer (Capstone Project)**
+**Full-Stack Developer (Capstone Project)**
 
 Developed a comprehensive, cross-platform portal designed to streamline academic workflows for students, faculty, and administrators.
 
@@ -30,12 +30,11 @@ Developed a comprehensive, cross-platform portal designed to streamline academic
 
 ## 📈 Engineering Impact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="150" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
