@@ -30,11 +30,17 @@ Developed a comprehensive, cross-platform portal designed to streamline academic
 
 ## 📈 Engineering Impact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Richard's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+</p>
 
 ---
 
