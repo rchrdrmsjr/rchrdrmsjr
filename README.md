@@ -1,81 +1,49 @@
-# 👋 Hi, I'm Richard Ramos Jr
+# Richard Ramos Jr.
+### Full-Stack Developer | System Design & Digital Solutions
 
-Student developer focused on building practical, real-world systems.  
-I enjoy turning messy requirements into clean, working software.
-
----
-
-## 🚀 About Me
-
-- 💻 Student / Junior Full-Stack Developer  
-- 🏫 Capstone Project: **School Portal System**  
-- 🌐 Web • Desktop • Mobile Applications  
-- 🧠 Interested in system design, authentication, and databases  
-- ❤️ JavaScript is my comfort zone
+I am a software developer dedicated to building scalable, user-centric systems that solve real-world problems. With a strong foundation in **full-stack development** and a focus on **clean architecture**, I specialize in transforming complex requirements into intuitive digital experiences.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Expertise
 
-**Frontend**
-- JavaScript, TypeScript
-- React, Next.js
-- HTML, CSS, Tailwind
-
-**Backend & Database**
-- Node.js
-- Supabase (PostgreSQL)
-- REST APIs
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Figma (basic UI planning)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript |
+| **Frontend** | React, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, RESTful API Design |
+| **Database** | PostgreSQL (Supabase), Data Modeling |
+| **Tools** | Git, GitHub, VS Code, Figma, Postman |
 
 ---
 
-## 📌 Featured Project
+## 🏗 Featured Project: Integrated School Management System
+**Lead Developer (Capstone Project)**
 
-### 🎓 School Portal System (Capstone)
+Developed a comprehensive, cross-platform portal designed to streamline academic workflows for students, faculty, and administrators.
 
-A unified platform for students, teachers, and administrators.
-
-**Key Features**
-- Role-based access control (Student, Teacher, Admin)
-- Authentication & account management
-- Records and reports management
-- Web, desktop, and mobile support
-- Centralized PostgreSQL database (Supabase)
-
-This project focuses on real-world workflows, clean data modeling, and usability.
+* **Role-Based Access Control (RBAC):** Engineered secure, granular permissions for three distinct user tiers.
+* **Unified Data Architecture:** Designed a centralized PostgreSQL schema on Supabase ensuring data integrity across web, desktop, and mobile clients.
+* **Workflow Optimization:** Focused on automating record management and reporting to reduce administrative overhead.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Engineering Impact
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="150" />
+</p>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true&cache_seconds=1800"
-/>
-
----
-
-## 💻 Most Used Languages
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Connect
 
-- 📧 Email: **ramosrichardjr25@gmail.com**
-- 📷 Instagram: **@its_aldev**
+I am currently open to collaborations and junior developer opportunities where I can contribute to meaningful codebases and continue my growth in system design.
 
----
+* 📧 **Email:** [ramosrichardjr25@gmail.com](mailto:ramosrichardjr25@gmail.com)
+* 📷 **Instagram:** [@its_aldev](https://www.instagram.com/its_aldev)
 
-⭐ Always learning. Always improving.
+> "Driven by logic, refined by design, and committed to continuous improvement."
