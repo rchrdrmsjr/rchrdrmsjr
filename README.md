@@ -75,33 +75,6 @@ A comprehensive, cross-platform portal designed to streamline academic workflows
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/rchrdrmsjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</a>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak Stats" />
-</p>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rchrdrmsjr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
