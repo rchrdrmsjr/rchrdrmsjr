@@ -92,6 +92,26 @@ A comprehensive, cross-platform portal designed to streamline academic workflows
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rchrdrmsjr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rchrdrmsjr&theme=tokyo-night&hide_border=true&custom_title=Richard's%20Contribution%20Graph)](https://github.com/rchrdrmsjr)
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```javascript
