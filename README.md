@@ -28,11 +28,13 @@ Developed a comprehensive, cross-platform portal designed to streamline academic
 
 ---
 
-## 📈 Engineering Activity
+## 📈 Engineering Impact
 
-I am an active contributor to open-source and personal projects. You can view my real-time coding activity and repository insights directly on my profile:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rchrdrmsjr&show_icons=true&theme=dark&hide_border=true&v=2)
 
-👉 **[View My GitHub Contributions & Insights](https://github.com/rchrdrmsjr?tab=overview)**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchrdrmsjr&layout=compact&theme=dark&hide_border=true&v=2)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rchrdrmsjr&theme=dark&hide_border=true&v=2)
 
 ---
 
