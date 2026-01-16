@@ -2,7 +2,7 @@
 
 # 👋 Richard Ramos Jr.
 
-### 💻 Full-Stack Developer | 🏗️ System Design & Digital Solutions
+### 💻 Aspiring Full-Stack Developer | 🏗️ System Design & Digital Solutions
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramosrichardjr25@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_aldev)
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a software developer dedicated to building **scalable**, **user-centric systems** that solve real-world problems. With a strong foundation in **full-stack development** and a focus on **clean architecture**, I specialize in transforming complex requirements into intuitive digital experiences.
+I am an aspiring software developer dedicated to building **scalable**, **user-centric systems** that solve real-world problems. With a growing foundation in **full-stack development** and a focus on **clean architecture**, I specialize in transforming complex requirements into intuitive digital experiences.
 
 > 💡 *"Driven by logic, refined by design, and committed to continuous improvement."*
 
@@ -53,7 +53,7 @@ I am a software developer dedicated to building **scalable**, **user-centric sys
 ## 🏗️ Featured Project
 
 ### 🎓 Integrated School Management System
-**Full-Stack Developer (Capstone Project)**
+**Aspiring Full-Stack Developer (Capstone Project)**
 
 A comprehensive, cross-platform portal designed to streamline academic workflows for students, faculty, and administrators.
 
