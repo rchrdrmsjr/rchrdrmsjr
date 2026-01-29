@@ -89,8 +89,8 @@ A comprehensive, cross-platform portal designed to streamline academic workflows
 ## 🎯 Current Focus
 
 ```javascript
-const richardRamos = {
-    location: "Quezon City, Philippines",
+const richardRamosJr = {
+    location: "Rizal, Philippines",
     currentFocus: ["System Architecture", "API Design", "User Experience"],
     learning: ["Advanced TypeScript", "Cloud Infrastructure", "Design Patterns"],
     lookingFor: "Junior Developer Opportunities & Open Source Collaborations",
