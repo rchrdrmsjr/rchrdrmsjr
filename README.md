@@ -6,7 +6,7 @@
 
 <div>
 
-<a href="https://www.linkedin.com/in/ramos-richard-jr-m-33b707314/" target="_blank">
+<a href="https://www.linkedin.com/in/ramos-richard-jr-m-33b707314/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
 </a>
 
@@ -26,6 +26,3 @@
 </a>
 
 </div>
-
-
-i want simple icon and also linked not working
