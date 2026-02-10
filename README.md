@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/nyan-cat-nyan-cat-rainbow-rainbow-space-game-gif-18392313885672076132" width="800"/>
+  <img src="https://tenor.com/qrWkndWZayE.gif" width="800"/>
 </div>
 
 ---
