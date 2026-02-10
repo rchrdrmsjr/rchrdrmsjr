@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/qrWkndWZayE.gif" width="800"/>
+ ![Image](https://github.com/user-attachments/assets/b40166e3-abd9-4477-8d83-7cfb53e273bc)
 </div>
 
 ---
