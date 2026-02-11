@@ -1,8 +1,7 @@
 <div>
-  <img width="498" height="227" alt="image" src="https://github.com/user-attachments/assets/6ae5b827-76c4-406b-a389-a56c9735a2cb" />
+  <img width="498" height="227" alt="image" src="https://raw.githubusercontent.com/rchrdrmsjr/rchrdrmsjr/refs/heads/main/cat%20(1).gif" />
  />
 </div>
-
 
 <div>
   <a href="https://www.linkedin.com/in/ramos-richard-jr-m-33b707314/"><img src="https://skillicons.dev/icons?i=linkedin" width="33" /></a>
