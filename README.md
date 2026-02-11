@@ -1,5 +1,5 @@
 <div>
-  <img width="498" height="227" alt="image" src="https://raw.githubusercontent.com/rchrdrmsjr/rchrdrmsjr/refs/heads/main/cat%20(1).gif" />
+  <img alt="image" src="https://raw.githubusercontent.com/rchrdrmsjr/rchrdrmsjr/refs/heads/main/cat%20(1).gif" />
  />
 </div>
 
