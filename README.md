@@ -1,6 +1,5 @@
 <div>
   <img alt="image" src="https://raw.githubusercontent.com/rchrdrmsjr/rchrdrmsjr/refs/heads/main/cat%20(1).gif" />
- />
 </div>
 
 <div>
